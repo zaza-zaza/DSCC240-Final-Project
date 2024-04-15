@@ -5,14 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2f855cd-9fe8-437a-8196-237faf326340" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DSCC240FinalProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Clustering Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rocket-league-skillshots-data (2).csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DSCC240-Final-Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cluster.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbscanimages/barplot_goal_state_avgs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbscanimages/bplots_Raw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbscanimages/bplots_min_max_normalized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbscanimages/frequency_inputs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbscanimages/pdf_values_fig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbscanimages/stacked_barplot_goal_state_avgs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket_league_skillshots.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clustering Analysis.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +36,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zaza-zaza"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zaza-zaza/DSCC240-Final-Project.git",
+    "accountId": "ac122762-a9f4-4c23-b01f-6e640910d213"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2f8KkKCxaUorQrVkx6pZBWBXEOZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,13 +59,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/HP/DataspellProjects/DSCC240FinalProject"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Zaza/DataspellProjects/DSCC240-Final-Project",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Zaza\DataspellProjects\DSCC240-Final-Project" />
       <recent name="C:\Users\HP\DataspellProjects\DSCC240FinalProject" />
     </key>
   </component>
