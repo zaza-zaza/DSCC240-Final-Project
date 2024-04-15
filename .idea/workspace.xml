@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2f855cd-9fe8-437a-8196-237faf326340" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DSCC240-Final-Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cluster.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbscanimages/barplot_goal_state_avgs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbscanimages/bplots_Raw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbscanimages/bplots_min_max_normalized.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbscanimages/frequency_inputs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbscanimages/pdf_values_fig.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dbscanimages/stacked_barplot_goal_state_avgs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rocket_league_skillshots.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="e2f855cd-9fe8-437a-8196-237faf326340" name="Changes" comment="Data clustering with proper data set that includes class labels">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clustering Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/cluster.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,4 +73,8 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Data clustering with proper data set that includes class labels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data clustering with proper data set that includes class labels" />
+  </component>
 </project>
