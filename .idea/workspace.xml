@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV">
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jupyter-settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +73,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV" />
+    <option name="LAST_COMMIT_MESSAGE" value="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV" />
   </component>
 </project>
