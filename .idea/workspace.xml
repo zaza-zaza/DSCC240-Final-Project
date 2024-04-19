@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,13 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "DSTables"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;DSTables&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="jupyter.circ.rochester.edu\python\DSCC240\DSCC 240 Final Project\Classifications" />
@@ -66,7 +64,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-8169a31fad14-083d02a8fb4b-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.14494.247" />
+        <option value="bundled-python-sdk-f630212fe81e-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.11799.285" />
       </set>
     </attachedChunks>
   </component>
