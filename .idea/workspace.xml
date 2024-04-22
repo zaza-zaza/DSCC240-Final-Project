@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV">
+    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../DSCC240-Final-Project\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,13 +54,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "DSTables"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;DSTables&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="jupyter.circ.rochester.edu\python\DSCC240\DSCC 240 Final Project\Classifications" />
@@ -74,6 +77,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV" />
-    <option name="LAST_COMMIT_MESSAGE" value="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV" />
+    <MESSAGE value="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently." />
+    <option name="LAST_COMMIT_MESSAGE" value="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently." />
   </component>
 </project>
