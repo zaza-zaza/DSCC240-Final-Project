@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
