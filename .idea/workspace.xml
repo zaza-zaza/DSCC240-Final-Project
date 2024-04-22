@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently." />
+    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="xgboost classifier" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,6 +76,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV" />
     <MESSAGE value="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently." />
-    <option name="LAST_COMMIT_MESSAGE" value="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently." />
+    <MESSAGE value="xgboost classifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="xgboost classifier" />
   </component>
 </project>
