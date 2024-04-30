@@ -4,19 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="xgboost classifier" />
+    <list default="true" id="06c0eaf0-eb43-485c-a0a4-c558059f1f0b" name="Changes" comment="latest version of project. Added notebook that handles data with no noise. There are now several errors with some classifiers such as the Naive Bayes classifier. XGBoost still does not work">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExportToHTMLSettings">
-    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../DSCC240-Final-Project\exportToHTML" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -54,6 +55,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;DSTables&quot;
@@ -64,19 +66,52 @@
       <recent name="jupyter.circ.rochester.edu\python\DSCC240\DSCC 240 Final Project\Classifications" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="conf" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DSCC240-Final-Project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seqscout" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\HP\DataspellProjects\DSCC240-Final-Project_1\seqscout\conf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-8169a31fad14-083d02a8fb4b-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-241.14494.247" />
+        <option value="bundled-python-sdk-f630212fe81e-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.11799.285" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
     <MESSAGE value="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV" />
-    <MESSAGE value="sklearn classifications in one notebook and xgb in another. xgb doesn't work at all currently." />
-    <MESSAGE value="xgboost classifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="xgboost classifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="New and improved data set. The data preprocessing and classfication steps are now in separate notebooks. The classifiers are also improved. The decision tree hyperparameters are being tuned using GridSearchCV" />
   </component>
 </project>
